@@ -139,7 +139,6 @@ while x != 0:
         break              
            
     else:
-        
         print()
         print('  Invalid Input  ')
         print()
